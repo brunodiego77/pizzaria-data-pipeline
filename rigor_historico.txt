@@ -69,13 +69,13 @@ R$ 157,72 supermercado
 28/10/2026 08:32 - R igor: 30/06
 R$ 314,00 supermercado
 28/10/2026 08:32 - R igor: Total de compras do supermercado mês de junho R$ 11 230,54
-28/10/2026 08:33 - R igor: 01/06
+28/10/2026 08:33 - R igor: 01/07
 R$ 234,16 supermercado
-28/10/2026 08:33 - R igor: 02/06
+28/10/2026 08:33 - R igor: 02/07
 R$ 483,96 supermercado
-28/10/2026 08:33 - R igor: 03/06
+28/10/2026 08:33 - R igor: 03/07
 R$ 131,95 supermercado
-28/10/2026 08:33 - R igor: 04/06
+28/10/2026 08:33 - R igor: 04/07
 R$ 217,00 supermercado
 28/10/2026 08:33 - R igor: 05/07
 R$ 588,30 supermercado
@@ -194,7 +194,7 @@ R$ 675,39 supermercado
 28/10/2026 08:34 - R igor: Total de compras do mês de agosto foi de R$ 10.450,42
 28/10/2026 08:36 - R igor: 01/09
 R$ 511,66 supermercado
-28/10/2026 08:36 - R igor: 02/08
+28/10/2026 08:36 - R igor: 02/09
 R$ 322,13 supermercado
 28/10/2026 08:36 - R igor: 03/09
 R$ 220,98 supermercado
@@ -256,7 +256,7 @@ R$ 389,47 supermercado
 R$120,00 gas
 28/10/2026 08:37 - R igor: 05/06
 R$ 42,00 aluguel da máquina de cartão
-28/10/2026 08:37 - R igor: 05/05
+28/10/2026 08:37 - R igor: 05/06
 R$ 18,20 Instagram
 28/10/2026 08:37 - R igor: 07/06
 120,00 gás
@@ -302,9 +302,9 @@ R$ 12,32 Instagram
 28/10/2026 08:37 - R igor: 30/06
 R$ 400,00 aluguel
 28/10/2026 08:37 - R igor: Total de despesas fixas do mês de junho R$ 3389,69
-28/10/2026 08:38 - R igor: 03/06
+28/10/2026 08:38 - R igor: 03/07
 R$ 120,00 gás
-28/10/2026 08:38 - R igor: 04/06
+28/10/2026 08:38 - R igor: 04/07
 R$ 120,00 gás
 28/10/2026 08:38 - R igor: 08/07
 R$ 740,00 quinzena do Bruno
@@ -480,7 +480,7 @@ Cartão 0,00
 Pix 440,50 
 Total 440,50
 28/10/2026 08:43 - R igor: 11/06
-R$ 04 pizzas 
+04 pizzas 
 Dinheiro 50,40
 Cartão 39,90
 Pix 79,80
@@ -735,7 +735,7 @@ Cartão 287,90
 Pix 780,60
 Fiado 42,90 Matheus
 Total 1232,40
-28/10/2026 08:44 - R igor: 23/08
+28/10/2026 08:44 - R igor: 24/08
 02 pizzas 
 Dinheiro 83,80
 Cartão 0,00
@@ -785,27 +785,27 @@ Total 1422,70
 28/10/2026 08:44 - R igor: Total de compras do mês de agosto foi de R$ 10.450,42
 28/10/2026 08:44 - R igor: Custo fixo da pizzaria foi de R$ 3470,14
 28/10/2026 08:44 - R igor: Lucro líquido da pizzaria do mês de agosto foi de R$ 3.919,72
-28/10/2026 08:47 - R igor: 01/06
+28/10/2026 08:47 - R igor: 01/07
 05 pizzas 
 Dinheiro 40,00
 Cartão 63,90
 Pix 141,20
 Total 251,10
-28/10/2026 08:47 - R igor: 02/06
+28/10/2026 08:47 - R igor: 02/07
 12 pizzas 
 Dinheiro 80,00
 Cartão 96,30
 Pix 341,80
 Ifood 57,00
 Total 575,30
-28/10/2026 08:47 - R igor: 03/06
+28/10/2026 08:47 - R igor: 03/07
 13 pizzas 
 Dinheiro 200,00
 Cartão 0, 00 
 Pix 246,70
 Fiado 90,00 maguin 
 Total 536,70
-28/10/2026 08:47 - R igor: 04/06
+28/10/2026 08:47 - R igor: 04/07
 15 pizzas 
 Dinheiro 42,50
 Pix 520,80
